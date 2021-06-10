@@ -1,1 +1,1 @@
-# covid-19-vaccination
+# Covid-19 Vaccination Card NFT
